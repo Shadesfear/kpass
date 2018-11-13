@@ -1,0 +1,35 @@
+python3 watermelon.py 
+ls
+pip list
+pip3 list
+pip list
+exit
+workon 2021
+workon 2021 
+cd ..
+cd ..
+workon 2021 
+pip list
+clear
+
+cls
+clear
+
+workon 2021 
+. 2021/bin/activate
+cd ..
+cd ..
+. 2021/bin/activate
+ls
+clear
+
+ls
+c
+clear
+
+l
+ls
+ls -a
+ls -l
+ls
+ls
