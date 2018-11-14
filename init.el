@@ -39,7 +39,7 @@
  '(magit-diff-use-overlays nil)
  '(package-selected-packages
    (quote
-    (togetherly yasnippet-snippets yasnippet yasnippet-classic-snippets auctex virtualenvwrapper atom-dark-theme neotree gruvbox-theme markdown-mode solarized-theme smartparens rainbow-delimiters pyenv-mode powerline pomodoro org-pomodoro org-bullets nlinum multiple-cursors monokai-theme monokai-alt-theme material-theme magit jedi helm fireplace elpy dashboard anaconda-mode ace-jump-mode)))
+    (slack togetherly yasnippet-snippets yasnippet yasnippet-classic-snippets auctex virtualenvwrapper atom-dark-theme neotree gruvbox-theme markdown-mode solarized-theme smartparens rainbow-delimiters pyenv-mode powerline pomodoro org-pomodoro org-bullets nlinum multiple-cursors monokai-theme monokai-alt-theme material-theme magit jedi helm fireplace elpy dashboard anaconda-mode ace-jump-mode)))
  '(pos-tip-background-color "#FFFACE")
  '(pos-tip-foreground-color "#272822")
  '(send-mail-function (quote mailclient-send-it))
